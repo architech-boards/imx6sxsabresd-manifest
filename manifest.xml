@@ -14,5 +14,6 @@
     <project remote="freescale" revision="48cb0bcdd226d2e7eee1fdc222713e1dff93342c" name="meta-fsl-demos"     />
     <project remote="OSSystems" revision="63963cc56c8d0291779693e62b66cb16e5c86883" name="meta-browser"       />
     <project remote="QT5"       revision="41c5daa84af4466bfc9aa61f6f772c68470a628b" name="meta-qt5"           />
+    <project remote="fsl-release" revision="dizzy_3.14.28-1.0.0_GA"                 name="meta-fsl-bsp-release" />
 </manifest>
 
